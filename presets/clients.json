@@ -1,0 +1,18 @@
+{
+    "amazon_business": {
+      "greeting": "Bonjour, je vous appelle au nom d’Amazon Business.",
+      "tone": "very_polite",
+      "closing": "Merci pour votre temps. Excellente journée."
+    },
+    "dell": {
+      "greeting": "Bonjour, je vous contacte pour le compte de Dell.",
+      "tone": "neutral_polite",
+      "closing": "Merci de votre attention. Bonne journée."
+    },
+    "microsoft": {
+      "greeting": "Bonjour, je vous appelle de la part de Microsoft.",
+      "tone": "formal",
+      "closing": "Je vous remercie pour cet échange."
+    }
+  }
+  
